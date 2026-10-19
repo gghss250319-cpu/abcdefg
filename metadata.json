@@ -1,0 +1,6 @@
+{
+  "name": "녹색 구호자: 새싹 디펜스!",
+  "description": "중학교 과학 연계 생태계 수호 게임! 광합성과 호흡, 증산작용으로 새싹을 거목으로 키우고 폭염과 해충에 맞서 숲을 지키세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
